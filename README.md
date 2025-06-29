@@ -48,3 +48,8 @@ npm install
 npm run dev
 
 ```
+
+## Deployed Site
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen)](https://Vivek-103.github.io/brainwave)
+
