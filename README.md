@@ -32,10 +32,6 @@ Special thanks to **JavaScript Mastery** ([@adrianhajdin](https://github.com/adr
 
 > This project was developed purely for educational purposes.
 
-## 📸 Screenshots
-
-_(Optional: You can include screenshots or a link to a live demo here)_
-
 ## 🛠️ Installation & Running Locally
 
 ```bash
