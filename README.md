@@ -22,7 +22,7 @@ The main purpose of this project was to:
 ## 🔧 Tech Stack
 
 - **React.js**
-- **Tailwind CSS**
+- **Tailwind CSS** 
 - **Vite** (for fast development and build)
 - **Heroicons & Custom SVGs**
 
